@@ -1,0 +1,23 @@
+.colornav{
+    background-color: rgb(115, 0, 0)
+}
+
+.colornav img{
+    width: 200px;
+}
+
+#fundo{
+    background: rgb(0,115,107);
+    background: linear-gradient(0deg, rgba(0,115,107,1) 0%, rgba(0,0,0,1) 100%);
+    color: white;
+    text-align: center;
+}
+
+footer{
+    text-align: justify;
+}
+
+.imghistoria{
+    border-style: none;
+    width: 50%;
+}
